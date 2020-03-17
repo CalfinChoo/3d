@@ -10,3 +10,4 @@ edges = []
 transform = new_matrix()
 
 parse_file( 'script', edges, transform, screen, color )
+# parse_file( 'img', edges, transform, screen, color )
